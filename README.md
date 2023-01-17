@@ -8,7 +8,7 @@
 _____________________
 
 ### 🤝 Connect with Me:
-[🐦Twitter](https://twitter.com/AhamPriscilla) | [Dev.to Blog](https://dev.to/ahampriscilla) | [Entry Level Repository](https://rb.gy/vbda6d)
+[🐦Twitter](https://twitter.com/AhamPriscilla) | [Dev.to Blog](https://dev.to/ahampriscilla) | [Entry Level Stack](https://rb.gy/vbda6d)
 
 <!--
 **AhamPriscilla/AhamPriscilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
