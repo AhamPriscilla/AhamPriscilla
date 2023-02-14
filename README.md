@@ -10,7 +10,14 @@
 _____________________
 
 ### 🤝 Connect with Me:
-[🐦Twitter](https://twitter.com/AhamPriscilla) | [💻 HackerNoon](https://hackernoon.com/u/ahampriscilla) | [✍🏽 Medium](https://medium.com/@ahampriscilla) | [🐳 LinkedIn](https://www.linkedin.com/in/ahampriscilla/)
+[🐦Twitter](https://twitter.com/AhamPriscilla) | [🐳 LinkedIn](https://www.linkedin.com/in/ahampriscilla/) 
+_____________________
+
+#### 💻 My Blog:
+[👩🏽‍💻 HackerNoon](https://hackernoon.com/u/ahampriscilla) | [✍🏽 Medium](https://medium.com/@ahampriscilla) 
+_____________________
+
+[✨See My Portfolio✨](https://rb.gy/fea8h4)
 
 <!--
 **AhamPriscilla/AhamPriscilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
