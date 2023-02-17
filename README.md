@@ -14,7 +14,7 @@ _____________________
 _____________________
 
 #### 💻 My Blog:
-[👩🏽‍💻 HackerNoon](https://hackernoon.com/u/ahampriscilla) | [✍🏽 Medium](https://medium.com/@ahampriscilla) 
+[👩🏽‍💻 HackerNoon](https://hackernoon.com/about/ahampriscilla) | [✍🏽 Medium](https://medium.com/@ahampriscilla) 
 _____________________
 
 [✨See My Portfolio✨](https://rb.gy/fea8h4)
