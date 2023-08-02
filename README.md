@@ -1,6 +1,6 @@
 ### 👋 Hi there I’m Aham Priscilla! 
 - 😄 Pronouns: She/Her/Hers
-- 👀 I write about Hackathons, Tech communities, Entry Level hacks I gathered on my tech journey to make your tech journey easier.
+- 👀 I write about Tech communities, Entry Level hacks I gathered on my tech journey to make your tech journey easier.
 - 🌱 I believe in self development & equipping my self to add more value to my niche & industry. 
 - 👩🏽‍🎓 I am also currently learning SQL
 - 💞️ I 💛 Art, Notion, Volunteering & Contribute on Open Source anyway I can (fr just buzz me)
