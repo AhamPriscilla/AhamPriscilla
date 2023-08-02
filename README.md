@@ -5,8 +5,7 @@
 - 👩🏽‍🎓 I am also currently learning SQL
 - 💞️ I 💛 Art, Notion, Volunteering & Contribute on Open Source anyway I can (fr just buzz me)
 - 💡 I look forward to becoming a mentor who can help early tech careerist overcome the obstacles I face today.
-- 🚧 I am currently working on a repository/guide for newbies in Tech. Contributions are most welcome!
-- 👉🏽 Visit [🐣 TechNestlings Stack](https://rb.gy/jaqdde). Contribute, leave a suggestion or a feedback!
+- 🚧 I am currently working on ...
 _____________________
 
 ### 🤝 Connect with Me:
